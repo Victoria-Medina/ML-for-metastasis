@@ -1,0 +1,1 @@
+This repository contains the code for my Master's thesis in Bioinformatics for Health Sciences at the University of A Coruña. The focus of the thesis is to leverage machine learning models to classify proteins into those implicated in metastasis and those not involved in metastasis.
